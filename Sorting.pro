@@ -3,7 +3,7 @@ QT -= gui
 
 CONFIG += c++11
 
-TARGET = InsertSorting
+TARGET = Sorting
 CONFIG += console
 CONFIG -= app_bundle
 
